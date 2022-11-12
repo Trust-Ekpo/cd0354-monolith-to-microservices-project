@@ -41,3 +41,14 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 set_env.sh
+api-feed-deployment.yaml
+api-feed-service.yaml
+api-user-deployment.yaml
+api-user-service.yaml
+aws-secret.yaml
+frontend-deployment.yaml
+frontend-service.yaml
+env-secret.yaml
+env-configmap.yaml
+reverseproxy-deployment.yaml
+reverseproxy-service.yaml
